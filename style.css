@@ -38,8 +38,10 @@ nav li {
     transition: 0.2s;
     position: relative;
     transition: 0.2s ease-in-out;
+}
 
-
+nav li:last-of-type::before {
+    display: none;
 }
 
 #language {
