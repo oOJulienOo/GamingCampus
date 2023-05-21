@@ -459,6 +459,11 @@ footer ul li {
         display: none;
     }
 
+    nav li  {
+        font-size: 0.9rem;
+        padding: 10px 0px;
+    }
+
     .main-news-block {
         padding: 0;
     }
